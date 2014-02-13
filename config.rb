@@ -7,8 +7,8 @@ project_type = :stand_alone
 http_path = "/"
 http_images_path = "/images"
 http_generated_images_path = "/images"
-http_fonts_path = "/octopress/fonts"
-css_dir = "public/octopress/stylesheets"
+http_fonts_path = "/fonts"
+css_dir = "public/stylesheets"
 
 # Local development paths
 sass_dir = "sass"
