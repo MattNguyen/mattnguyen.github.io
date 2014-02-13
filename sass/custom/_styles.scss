@@ -1,2 +1,27 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+img.profile-picture {
+  border-radius:50%;
+  vertical-align:middle;
+  margin-right:30px;
+}
+
+section.heading-text {
+  display:inline-block;
+  vertical-align:middle;
+}
+
+section.social-media-icons {
+  vertical-align:middle;
+  float:right;
+  margin-top:35px
+}
+
+section.social-media-icons img {
+  width:75px
+}
+
+img[alt=sadie] {
+  width:600px
+}
