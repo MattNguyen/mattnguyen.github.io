@@ -5,7 +5,7 @@ comments: false
 sharing: false
 footer: true
 ---
-Yo! I’m Matt Nguyen. I’m currently working as a backend software engineer at Tapjoy, primarily doing Ruby on Rails development.
+Yo! I’m Matt Nguyen. I’m a web developer primarily focused on Ruby on Rails development.
 
 I spend a lot of my time learning new technologies. Lately, I’ve been messing around with Ansible, Node.js, and iOS development.
 
