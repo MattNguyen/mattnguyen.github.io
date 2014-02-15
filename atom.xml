@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Matt Nguyen]]></title>
-  <link href="http://mattnguyen.github.io/atom.xml" rel="self"/>
-  <link href="http://mattnguyen.github.io/"/>
-  <updated>2014-02-15T00:47:55-08:00</updated>
-  <id>http://mattnguyen.github.io/</id>
+  <link href="http://MattNguyen.github.io/atom.xml" rel="self"/>
+  <link href="http://MattNguyen.github.io/"/>
+  <updated>2014-02-15T12:57:07-08:00</updated>
+  <id>http://MattNguyen.github.io/</id>
   <author>
     <name><![CDATA[Matt Nguyen]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[OK, America. See You in Five Months.]]></title>
-    <link href="http://mattnguyen.github.io/2014/02/14/ok/"/>
+    <link href="http://MattNguyen.github.io/2014/02/14/ok/"/>
     <updated>2014-02-14T00:00:00-08:00</updated>
-    <id>http://mattnguyen.github.io/2014/02/14/ok</id>
+    <id>http://MattNguyen.github.io/2014/02/14/ok</id>
     <content type="html"><![CDATA[<p>It seems like only yesterday when I moved from Austin back to San Francisco for Dev Bootcamp. So much has changed since.</p>
 
 <!-- more -->
@@ -41,7 +41,7 @@
 
 <h3>That&rsquo;s about it</h3>
 
-<p>So this is where I&rsquo;m at in my life. I leave in a couple days. I&rsquo;m going to be a little bit more dilligent about blogging this time around. Heck, I even built out and customized my own octopress blog (more info on this in another post) for this purpose. If you want to find out what I&rsquo;m doing, feel free to check back here, follow my <a href="http://instagram.com/mnguyen916">instagram</a> (@mnguyen916), or follow my <a href="https://twitter.com/MrMattNguyen">twitter</a> (@mrmattnguyen) for updates.</p>
+<p>So this is where I&rsquo;m at in my life. I leave in a couple days. I&rsquo;m going to be a little bit more dilligent about blogging this time around. Heck, I even built out and customized my own octopress blog (more info on this in another post) for this purpose. If you want to find out what I&rsquo;m doing, feel free to check back here, follow my <a href="http://instagram.com/__mattn">instagram</a> (@__mattn), or follow my <a href="https://twitter.com/MrMattNguyen">twitter</a> (@mrmattnguyen) for updates.</p>
 
 <p>I plan on following up with more detailed information about my Asia trip, including backpacking essentials, itineraries, must-see places, must-go-to parties, and anything you might want to know if you&rsquo;re considering doing something similar.</p>
 
@@ -51,9 +51,9 @@
   
   <entry>
     <title type="html"><![CDATA[On Life and Moving Forward]]></title>
-    <link href="http://mattnguyen.github.io/2012/05/13/on-life-and-moving-forward/"/>
+    <link href="http://MattNguyen.github.io/2012/05/13/on-life-and-moving-forward/"/>
     <updated>2012-05-13T00:00:00-07:00</updated>
-    <id>http://mattnguyen.github.io/2012/05/13/on-life-and-moving-forward</id>
+    <id>http://MattNguyen.github.io/2012/05/13/on-life-and-moving-forward</id>
     <content type="html"><![CDATA[<p style="font-style: italic;"><a href="http://matt-nguyen.tumblr.com/post/22890572560/on-life-and-moving-forward">(This Tumblr post</a> has been reposted to provide some continuity for my new site and life journey.)</p>
 <p>For my inaugural Tumblr post, I feel obligated to update those who are close to me on what I have been doing, what I will be doing, and why I created this <strike>Tumblr account</strike>.</p>
 <p>(TL;DR - I&#8217;ve been living in Austin as a project manager for the last year; I&#8217;m moving back to the Bay to do Dev Bootcamp and will forgo law school; I&#8217;m documenting my journey to inspire those who are considering the same path)</p>
