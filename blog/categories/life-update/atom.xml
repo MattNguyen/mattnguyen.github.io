@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Life Update | Matt Nguyen]]></title>
-  <link href="http://MattNguyen.github.io/blog/categories/life-update/atom.xml" rel="self"/>
-  <link href="http://MattNguyen.github.io/"/>
-  <updated>2014-02-14T21:42:45-08:00</updated>
-  <id>http://MattNguyen.github.io/</id>
+  <link href="http://mattnguyen.github.io/blog/categories/life-update/atom.xml" rel="self"/>
+  <link href="http://mattnguyen.github.io/"/>
+  <updated>2014-02-15T00:47:55-08:00</updated>
+  <id>http://mattnguyen.github.io/</id>
   <author>
     <name><![CDATA[Matt Nguyen]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[OK, America. See You in Five Months.]]></title>
-    <link href="http://MattNguyen.github.io/2014/02/14/ok/"/>
+    <link href="http://mattnguyen.github.io/2014/02/14/ok/"/>
     <updated>2014-02-14T00:00:00-08:00</updated>
-    <id>http://MattNguyen.github.io/2014/02/14/ok</id>
+    <id>http://mattnguyen.github.io/2014/02/14/ok</id>
     <content type="html"><![CDATA[<p>It seems like only yesterday when I moved from Austin back to San Francisco for Dev Bootcamp. So much has changed since.</p>
 
 <!-- more -->
@@ -51,9 +51,9 @@
   
   <entry>
     <title type="html"><![CDATA[On Life and Moving Forward]]></title>
-    <link href="http://MattNguyen.github.io/2012/05/13/on-life-and-moving-forward/"/>
+    <link href="http://mattnguyen.github.io/2012/05/13/on-life-and-moving-forward/"/>
     <updated>2012-05-13T00:00:00-07:00</updated>
-    <id>http://MattNguyen.github.io/2012/05/13/on-life-and-moving-forward</id>
+    <id>http://mattnguyen.github.io/2012/05/13/on-life-and-moving-forward</id>
     <content type="html"><![CDATA[<p style="font-style: italic;"><a href="http://matt-nguyen.tumblr.com/post/22890572560/on-life-and-moving-forward">(This Tumblr post</a> has been reposted to provide some continuity for my new site and life journey.)</p>
 
 

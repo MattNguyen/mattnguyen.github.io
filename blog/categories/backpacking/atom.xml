@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Backpacking | Matt Nguyen]]></title>
-  <link href="http://MattNguyen.github.io/blog/categories/backpacking/atom.xml" rel="self"/>
-  <link href="http://MattNguyen.github.io/"/>
-  <updated>2014-02-14T21:42:45-08:00</updated>
-  <id>http://MattNguyen.github.io/</id>
+  <link href="http://mattnguyen.github.io/blog/categories/backpacking/atom.xml" rel="self"/>
+  <link href="http://mattnguyen.github.io/"/>
+  <updated>2014-02-15T00:47:55-08:00</updated>
+  <id>http://mattnguyen.github.io/</id>
   <author>
     <name><![CDATA[Matt Nguyen]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[OK, America. See You in Five Months.]]></title>
-    <link href="http://MattNguyen.github.io/2014/02/14/ok/"/>
+    <link href="http://mattnguyen.github.io/2014/02/14/ok/"/>
     <updated>2014-02-14T00:00:00-08:00</updated>
-    <id>http://MattNguyen.github.io/2014/02/14/ok</id>
+    <id>http://mattnguyen.github.io/2014/02/14/ok</id>
     <content type="html"><![CDATA[<p>It seems like only yesterday when I moved from Austin back to San Francisco for Dev Bootcamp. So much has changed since.</p>
 
 <!-- more -->
