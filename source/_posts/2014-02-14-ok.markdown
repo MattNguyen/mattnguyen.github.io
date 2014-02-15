@@ -1,0 +1,36 @@
+---
+layout: post
+title: "OK, America. See you in five months."
+date: 2014-02-14
+comments: true
+categories: [Travel, Backpacking, Life Update, Southeast Asia]
+published: true
+---
+
+It seems like only yesterday when I moved from Austin back to San Francisco for Dev Bootcamp. So much has changed since.
+
+<!-- more -->
+
+### Brief update
+
+After ten grueling weeks of nonstop, intensive learning, I managed to get hired as a Software Engineer at [Tapjoy](http://www.tapjoy.com). For the last year and a half, I was able to work on a plethora of interesting projects including Tapjoy.com, video and MRAID ad products, and eventually building out and shipping the Events Framework and publisher messages. My teammates have all inspired me in different ways, and I'm grateful for all that I've learned in the short time I've been with them.
+
+Alas, it is time for me to move on. Not to another company or a different professsion. Rather, I'll be doing some serious traveling around Southeast Asia for the next five months.
+
+### Why quit your job then?
+
+Mainly because I wanted to get away for awhile. No responsibilities. No rent. No pressure. Just the freedom, craziness, and anxiety that comes with backpacking for an extended period of time. It's going to be awesome.
+
+### What are your travel plans?
+
+I'm not really sure. I'll be flying into Saigon, and I will be in Vietnam for a little less than a month. After that I'll be hopping on a plane to Kuala Lumpur, Malaysia for [Future Music Festival](http://www.futuremusicfestival.asia/2014/). After FMF, I'll be working my way up Malaysia to Bangkok, Thailand, where I'll be meeting [Basil](http://www.bsiddiqui.com) for Songkran and Full Moon Festival.
+
+When Basil leaves, I'll work my way East to Cambodia, North through Laos, and then back into Vietnam where I'll work my way South down the coast back to Saigon. I have no real plans for this portion of the trip, so it's a little bit unstructured at the moment. But that's what makes this so damn fun :).
+
+### That's about it
+
+So this is where I'm at in my life. I leave in a couple days. I'm going to be a little bit more dilligent about blogging this time around. Heck, I even built out and customized my own octopress blog for this purpose. If you want to find out what I'm doing, feel free to check back here, follow my [instagram](http://instagram.com/mnguyen916) (@mnguyen916), or follow my [twitter](https://twitter.com/MrMattNguyen) (@mrmattnguyen) for updates.
+
+I plan on following up with more detailed information about my Asia trip, including backpacking essentials, itineraries, must-see places, must-go-to parties, and anything you might want to know if you're considering doing something similar.
+
+Here's to 2014! Wish me luck!
