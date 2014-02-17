@@ -25,3 +25,22 @@ section.social-media-icons img {
 img[alt=sadie] {
   width:600px
 }
+@media only screen and (max-width: 550px) {
+  .social-media-icons { display: none; }
+  hgroup.header { text-align: center; }
+  aside.sidebar { display: none; }
+}
+@media only screen and (min-width: 550px) and (max-width: 800px) {
+  hgroup.header { text-align: center; }
+  section.social-media-icons {
+    float:none;
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+
+    img {
+      width: 55px;
+    }
+  }
+  fieldset[role=search] { display: none; }
+}
