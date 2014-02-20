@@ -2,34 +2,38 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://mattnguyen.github.io/2012/05/13/on-life-and-moving-forward/</loc>
-        <lastmod>2014-02-17T08:27:05+09:00</lastmod>
+        <lastmod>2014-02-17T06:27:05+07:00</lastmod>
     </url>
     <url>
         <loc>http://mattnguyen.github.io/2014/02/14/ok/</loc>
-        <lastmod>2014-02-17T08:27:05+09:00</lastmod>
+        <lastmod>2014-02-17T06:27:05+07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://mattnguyen.github.io/2014/02/19/good-morning-saigon/</loc>
+        <lastmod>2014-02-20T14:20:17+07:00</lastmod>
     </url>
     <url>
         <loc>http://mattnguyen.github.io/about/</loc>
-        <lastmod>2014-02-17T08:27:05+09:00</lastmod>
+        <lastmod>2014-02-17T06:27:05+07:00</lastmod>
     </url>
     <url>
         <loc>http://mattnguyen.github.io/blog/archives/</loc>
-        <lastmod>2014-02-17T08:27:05+09:00</lastmod>
+        <lastmod>2014-02-20T14:20:17+07:00</lastmod>
     </url>
     <url>
         <loc>http://mattnguyen.github.io/contact/</loc>
-        <lastmod>2014-02-17T08:27:05+09:00</lastmod>
+        <lastmod>2014-02-20T14:20:17+07:00</lastmod>
     </url>
     <url>
         <loc>http://mattnguyen.github.io/</loc>
-        <lastmod>2014-02-17T08:27:05+09:00</lastmod>
+        <lastmod>2014-02-20T14:20:17+07:00</lastmod>
     </url>
     <url>
         <loc>http://mattnguyen.github.io/projects/</loc>
-        <lastmod>2014-02-17T08:27:05+09:00</lastmod>
+        <lastmod>2014-02-17T06:27:05+07:00</lastmod>
     </url>
     <url>
         <loc>http://mattnguyen.github.io/robots.txt</loc>
-        <lastmod>2014-02-13T11:50:14+09:00</lastmod>
+        <lastmod>2014-02-13T09:50:14+07:00</lastmod>
     </url>
 </urlset>
