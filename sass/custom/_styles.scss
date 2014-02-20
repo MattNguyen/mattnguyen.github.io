@@ -25,6 +25,45 @@ section.social-media-icons img {
 img[alt=sadie] {
   width:600px
 }
+
+.center { text-align: center; }
+.left-align { float: left }
+.right-align { float: right }
+
+// Thumbnails
+.left-thumbnail { margin-right: 10px; }
+.right-thumbnail { margin-left: 10px; }
+
+// Bootstrap
+a.imgModal {
+  text-decoration: none;
+  white-space: normal;
+}
+
+a.imgModal > img {
+  margin: 0;
+}
+
+a.imgModal.floatLeft {
+  float: left;
+}
+
+a.imgModal.floatLeft > img {
+  margin: 0 15px 15px 0;
+}
+
+a.imgModal.floatRight {
+  float: right;
+}
+
+a.imgModal.floatRight > img {
+  margin: 0 0 15px 15px;
+}
+
+// Misc
+iframe { max-width: 100%; }
+
+// Media queries
 @media only screen and (max-width: 550px) {
   .social-media-icons { display: none; }
   hgroup.header { text-align: center; }
