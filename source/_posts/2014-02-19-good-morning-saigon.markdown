@@ -22,7 +22,7 @@ Since I refused to sleep on the five hour flight from Seoul to Saigon, I woke up
 
 I took a taxi to my uncle's office in district 1, the downtown area of Saigon. Since my iPhone unlock didn't go through on time, I got an international Nokia phone for about $25 and a sim card for $10. This will be useful when I travel to Malaysia, Cambodia, Laos, and Thailand. I spent the rest of the day walking around Ben Thanh Market and the backpacker's area with no real purpose or agenda. 
 
-While navigating around the street venders hustling sunglasses, fruit, and lottery tickets, I came up on a nice little place serving bun thit nuong cha gio, which is grilled pork over vericelli with egg roll served on top of a heaping pile of fresh lettuce and herbs. And the price? __A whopping $2__. I'm in heaven!
+While navigating around the street venders hustling sunglasses, fruit, and lottery tickets, I came up on a nice little place serving bun thit nuong cha gio, which is grilled pork over vermicelli with egg roll served on top of a heaping pile of fresh lettuce and herbs. And the price? __A whopping $2__. I'm in heaven!
 
 <div class="left-align"><iframe src="//instagram.com/p/kn_S1olip9/embed/" width="390" height="500" frameborder="0" scrolling="no" allowtransparency="true"></iframe></div>
 
