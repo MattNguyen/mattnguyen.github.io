@@ -15,7 +15,7 @@ On my third day in Saigon, I decided to rent a motorbike for the next couple of 
 <!-- more -->
 
 {% pullquote %}
-I was a little hesitant at first. I've heard war stories of people who were injured while motorbiking around Southeast Asia. In fact my buddy, Ryan, was in a pretty nasty accident while vacationing through Thailand and had to cut the trip short. Combine unfamiliarity with the roads and the lack of any logical rules, and you increase the likelihood of getting into an accident. Looking forward, going at your own comfortable pace, and understanding that honks inform of you another biker's presence can get you pretty far safely. Also, as Don poignantly pointed out, {"don't fuck with buses"}.
+I was a little hesitant at first. I've heard war stories of people who were injured while motorbiking around Southeast Asia. In fact my buddy, Ryan, was in a pretty nasty accident while vacationing through Thailand and had to cut the trip short. Combine unfamiliarity with the roads and the lack of any logical rules, and you increase the likelihood of getting into an accident. Looking forward, going at your own comfortable pace, and understanding that honks inform you another biker's presence can get you pretty far safely. Also, as Don poignantly pointed out, {"don't fuck with buses"}.
 {% endpullquote %}
 
 Don directed me to a place off of Nguyen Thi Minh Khai. Like most Vietnamese businesses, the rental shop was also the home and residence of the owners. Typically when renting out to foreigners, shops will demand your passport as a kind of security deposit. Since I'm not comfortable giving up my passport for a couple weeks, I opted to give the guy $300 in cash instead.
